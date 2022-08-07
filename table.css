@@ -1,0 +1,38 @@
+.container {
+    margin: 0 auto;
+    padding-left: 30px;
+    padding-right: 30px;
+    width: 920px;
+}
+th,td {
+    border: 1px solid black;
+    padding: 10px 15px;
+}
+*,
+*::before,
+*::after {
+    -webkit-box-sizing: border-box;
+        -moz-box-sizing: border-box;
+            box-sizing: border-box;
+}
+table {
+    border-collapse: separate;
+    border-spacing: 0;
+}
+thead {
+    background: #395870;
+    background: linear-gradient(#49708f, #293f50);
+    color: #fff;
+    font-size: 11px;
+    text-transform: uppercase;
+}
+tfoot {
+    text-align: right;
+    background: #395870;
+    background: linear-gradient(#49708f, #293f50);
+    color: #fff;
+    font-size: 16px;
+}
+body {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}

@@ -1,0 +1,14 @@
+/* my stylesheet */
+
+body,
+h1{
+    background-color: black;
+}
+p{
+    color:orange;
+    font-size: 16px;
+}
+img {
+    display: block;
+    max-width: 10%;
+}

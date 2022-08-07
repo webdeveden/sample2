@@ -1,0 +1,14 @@
+.mustard{
+    border: 1px solid rgb(0,0,0);
+    border-collapse: separate;
+    border-spacing: 4px;
+}
+.kiv{
+    border-style: solid;
+}
+
+table,
+th,tr,td {
+    border-style: solid;
+    border-collapse: collapse;
+}
